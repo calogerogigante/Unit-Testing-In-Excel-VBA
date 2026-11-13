@@ -1,5 +1,7 @@
 # Unit-Testing-In-Excel-VBA
 
+![Unit testing for VBA via powershell](images/screenshot_powershell.jpg)
+
 ENGLISH : ============================================
 
 This framework enables the implementation of unit tests for VBA in Excel.
