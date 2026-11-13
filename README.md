@@ -32,7 +32,9 @@ Les tests se lancent depuis un script powershell situé dans le même dossier o�
 
 Le script RunTests.ps1 est le même que RunTestsCol.ps1 : il a juste une plus belle présentation en couleurs.
 
-Ce framework a été inspiré de cet article : https://dev.to/michaelneu/unit-testing-vba-macros-npb
+Ce framework a été inspiré de cet article :
+
+https://dev.to/michaelneu/unit-testing-vba-macros-npb
 
 Et l'auteur a consulté quelques fois Claude-IA et ses conseils pour s'assurer de la bonne tenue du framework.
 
