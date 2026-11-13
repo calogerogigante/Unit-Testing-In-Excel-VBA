@@ -2,7 +2,7 @@
 
 ![Unit testing for VBA via powershell](images/screenshot_powershell.jpg)
 
-## ENGLISH : ============================================
+## ENGLISH :
 
 This framework enables the implementation of unit tests for VBA in Excel.
 
@@ -22,7 +22,7 @@ The author also consulted Claude-AI on several occasions for guidance to ensure 
 
 The code is distributed for free under the MIT License.
 
-## FRANÇAIS : -===========================================
+## FRANÇAIS :
 
 Ce framework permet de mettre en place des tests unitaires en VBA dans Excel.
 
